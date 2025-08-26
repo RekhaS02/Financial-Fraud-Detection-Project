@@ -57,8 +57,8 @@ Each unsupervised model is evaluated using :
 
 # How to Run
 Clone this repository :
-git clone https://github.com/your-username/financial-fraud-detection.git
-cd financial-fraud-detection
+git clone https://github.com/RekhaS02/Financial-Fraud-Detection-Project.git
+cd Financial-Fraud-Detection-Project
 
 Install dependencies :
 pip install -r requirements.txt
